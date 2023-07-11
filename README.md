@@ -4,7 +4,7 @@ Welcome to my awesome website! This website showcases my projects, ideas, and ac
 
 ## Live Website
 
-You can access the live version of this website at [AlexSNL59.github.io](https://innovativelearning.github.io).
+You can access the live version of this website at [AlexSNL59.github.io](www.innovativelearning59.io).
 
 ## Description
 
